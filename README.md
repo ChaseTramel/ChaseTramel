@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ChaseLittlepaws
-- 👀 I’m interested in Second Life and LSL
+- 👀 I’m interested in Second Life, WordPress, and SSG
 - 💞️ I’m looking to collaborate on Second Life scripting projects
-- 📫 Reach me via Chase.Littlepaws@hey.com
+- 📫 Reach me via Littlepaws@hey.com
