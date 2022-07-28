@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ChaseLittlepaws
-- 👀 I’m interested in Second Life, WordPress, and SSG
-- 💞️ I’m looking to collaborate on Second Life scripting projects
+- 👀 I’m interested in front end web development and Obsidian.md
+- 💞️ I’m looking to collaborate on an Obsidian plugin
 - 📫 Reach me via Littlepaws@hey.com
