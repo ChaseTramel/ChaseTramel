@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ChaseLittlepaws
-- 👀 I’m interested in front end web development and Obsidian.md
-- 💞️ I’m looking to collaborate on an Obsidian plugin and Gatsby sites.
-- 📫 Reach me via Littlepaws@hey.com
+- 👀 I’m interested in front end web development, Obsidian.md, and Second Life scripting
+- 💞️ I’m looking to collaborate on an Obsidian plugin, Gatsby sites, and LSL projects.
+- 📫 Reach me via Littlepaws@hey.com or Discord at Chase#7689
