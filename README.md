@@ -2,10 +2,10 @@
 - 💛 I’m interested in Second Life scripting, [Obsidian.md](https://obsidian.md/), and front end web development.
 - 🤝 I’d like to collaborate on:
     - **LSL projects**
-      - Currently adding features to my [Hellhund Headpatter](https://github.com/ChaseLittlepaws/HellhundHeadpatter) before publishing on the SL Marketplace. Open to collaboration on features and animations.
+      - Currently adding features to my [Hellhund Headpatter](https://github.com/ChaseLittlepaws/HellhundHeadpatter) before publishing on the SL Marketplace. Open to collaboration on features and animations. Open to making a more generic headpatter for other quad. avatars.
       - Overhauling the [Super Simple Needs HUD](https://github.com/ChaseLittlepaws/Super-Simple-Needs-HUD-SL) from the ground up. Seeking collaboration on HUD design and features.  
       - Planning on adapting my [Automatic Immersive Open Close Sign](https://github.com/ChaseLittlepaws/Automatic-Open-Close-Sign-SL) into an immersive online indicator upon recieving a request. Seeking collaboration for textures and features.  
-      - Planning on developing a simple yet scalable fetch game script that can be added to any object. Planned integration with the Hellhund animations. Open to collaboration on features and animations.  
+      - Planning on developing a simple yet scalable fetch game script that can be added to any object. Optional integration with the Hellhund avatar animations. Open to collaboration on features and animations.  
     - **Obsidian plugins**
       - Started [Obsidian Useful Widgets](https://github.com/ChaseLittlepaws/obsidian-useful-widgets). Seeking significant handholding and collaboration. Open to handing off the project to a developer demonstrably knowledgable about the topic.
       - Listed my [Templater scripts](https://github.com/ChaseLittlepaws/Obsidian-Templater-scripts) and [CSS snippets](https://github.com/ChaseLittlepaws/Obsidain-css-snippets). Scripts rely on outdated versions of Templater. CSS features made redundant by the Commander plugin. Available for reference.  
@@ -16,5 +16,5 @@
   - **[Learning Resources](https://github.com/stars/ChaseLittlepaws/lists/learning-resources)** - Resources on GitHub for learning front end web development, with a heavy emphasis on Javascript.
   - **[Cool Obsidian Plugins & More](https://github.com/stars/ChaseLittlepaws/lists/cool-obsidian-plugins-more)** - Plugins on GitHub I use and or find fascinating, plus other related resources.
   - **[Second Life Utilities](https://github.com/stars/ChaseLittlepaws/lists/second-life-utilities)** - Scripts and tools on GitHub that do interesting things in Second Life / OpenSim and or extend the capabilites of LSL.
-- 🛍️ You can find many of my scripted items as listed for sale in my [Second Life Marketplace store](https://marketplace.secondlife.com/stores/244066).
+- 🛍️ You can find many of my scripted items listed for sale in my [Second Life Marketplace store](https://marketplace.secondlife.com/stores/244066).
 - 📫 Reach me via email at littlepaws@hey.com, Discord at Chase#7689, or in Second Life at biscuitplush.
