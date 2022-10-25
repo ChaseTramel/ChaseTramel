@@ -2,7 +2,7 @@
 - 💛 I’m interested in Second Life scripting, [Obsidian.md](https://obsidian.md/), and front end web development.
 - 🤝 I’d like to collaborate on:
     - **LSL projects**
-      - Currently adding features to my [Hellhund Headpatter](https://github.com/ChaseLittlepaws/HellhundHeadpatter) before publishing on the SL Marketplace. Open to collaboration on features and animations. Open to making a more generic headpatter for other quad. avatars.
+      - Currently adding features to my [Hellhund Headpatter](https://github.com/ChaseLittlepaws/HellhundHeadpatter) before publishing on the SL Marketplace. Open to collaboration on features and animations. Open to making a more generic headpatter for other quadraped avatars.
       - Overhauling the [Super Simple Needs HUD](https://github.com/ChaseLittlepaws/Super-Simple-Needs-HUD-SL) from the ground up. Seeking collaboration on HUD design and features.  
       - Planning on adapting my [Automatic Immersive Open Close Sign](https://github.com/ChaseLittlepaws/Automatic-Open-Close-Sign-SL) into an immersive online indicator upon recieving a request. Seeking collaboration for textures and features.  
       - Planning on developing a simple yet scalable fetch game script that can be added to any object. Optional integration with the Hellhund avatar animations. Open to collaboration on features and animations.  
