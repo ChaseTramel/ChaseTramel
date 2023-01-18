@@ -1,4 +1,4 @@
-- 🦌 Hi, I’m Chase Littlepaws: 28 years old · any pronouns · near Orlando, Florida
+- 🦌 Hi, I’m Chase Littlepaws: 28 years old · she or they pronouns · near Orlando, Florida
 - 💛 I’m interested in Second Life scripting, [Obsidian.md](https://obsidian.md/), and front end web development.
 - 🤝 I’d like to collaborate on:
     - **LSL projects**
