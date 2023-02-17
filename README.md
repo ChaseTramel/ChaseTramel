@@ -1,16 +1,5 @@
 - 🦌 Hi, I’m Chase Littlepaws: 28 years old · she or they pronouns · near Orlando, Florida
-- 💛 I’m interested in Second Life scripting, [Obsidian.md](https://obsidian.md/), and front end web development.
-- 🤝 I’d like to collaborate on:
-    - **LSL projects**
-      - Currently adding features to my Hellhund Headpatter before publishing on the SL Marketplace. Open to collaboration on features and animations. Open to making a more generic headpatter for other quadraped avatars.
-      - Overhauling the Super Simple Needs HUD from the ground up. Seeking collaboration on HUD design and features.  
-      - Planning on adapting my Automatic Immersive Open Close Sign into an immersive online indicator upon recieving a request. Seeking collaboration for textures and features.  
-      - Planning on developing a simple yet scalable fetch game script that can be added to any object. Optional integration with the Hellhund avatar animations. Open to collaboration on features and animations.  
-    - **Obsidian plugins**
-      - Started [Obsidian Useful Widgets](https://github.com/ChaseLittlepaws/obsidian-useful-widgets). Seeking significant handholding and collaboration. Open to handing off the project to a developer demonstrably knowledgable about the topic.
-      - Listed my [Templater scripts](https://github.com/ChaseLittlepaws/Obsidian-Templater-scripts) and [CSS snippets](https://github.com/ChaseLittlepaws/Obsidain-css-snippets). Scripts rely on outdated versions of Templater. CSS features made redundant by the Commander plugin. Available for reference.  
-    - **Gatsby sites**
-      - Started private repo for commission information site. Seeking significant handholding and collaboration on development.  
+- 💛 I’m interested in full-stack webdevelopment and scripting for the game Second Life.
 - ✨ I have curated several resources that may be of use to developers with similar interests:
   - **[frontend-dev-learning](https://github.com/ChaseLittlepaws/frontend-dev-learning)** - Several documents including well-regarded courses to learn programming, most of them absolutely free. One learning program outlines learning [React.js and SSG](https://github.com/ChaseLittlepaws/frontend-dev-learning/blob/main/43.01%20React%20Developer%20Curriculum.md), while the another outlines learning [text-based game development](https://github.com/ChaseLittlepaws/frontend-dev-learning/blob/main/43.01%20React%20Developer%20Curriculum.md) with Twine and Inform 7.
   - **[Learning Resources](https://github.com/stars/ChaseLittlepaws/lists/learning-resources)** - Resources on GitHub for learning front end web development, with a heavy emphasis on Javascript.
