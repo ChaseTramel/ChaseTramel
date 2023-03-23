@@ -1,4 +1,4 @@
-- 🦌 Hi, I’m Chase Littlepaws: 28 years old · they or she pronouns · near Orlando, Florida
+- 🦌 Hi, I’m Chase Littlepaws: 29 years old · any pronouns · near Orlando, Florida
 - 💛 I’m interested in full-stack web development, UI design, and scripting for the game Second Life.
 - ✨ I have curated several resources that may be of use to developers with similar interests:
   - **[frontend-dev-learning](https://github.com/ChaseLittlepaws/frontend-dev-learning)** - Several documents including well-regarded courses to learn programming, most of them absolutely free. One learning program outlines learning [React.js and SSG](https://github.com/ChaseLittlepaws/frontend-dev-learning/blob/main/43.01%20React%20Developer%20Curriculum.md), while the another outlines learning [text-based game development](https://github.com/ChaseLittlepaws/frontend-dev-learning/blob/main/43.01%20React%20Developer%20Curriculum.md) with Twine and Inform 7.
