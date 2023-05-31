@@ -6,4 +6,4 @@
   - **[Cool Obsidian Plugins & More](https://github.com/stars/ChaseLittlepaws/lists/cool-obsidian-plugins-more)** - Plugins on GitHub I use and or find fascinating, plus other related resources.
   - **[Second Life Utilities](https://github.com/stars/ChaseLittlepaws/lists/second-life-utilities)** - Scripts and tools on GitHub that do interesting things in Second Life / OpenSim and or extend the capabilites of LSL.
 - 🛍️ You can find many of my scripted items listed for sale in my [Second Life Marketplace store](https://marketplace.secondlife.com/stores/244066).
-- 📫 Reach me via email at chasetramel@hey.com, Discord at Chase#7689, or in Second Life at biscuitplush.
+- 📫 Reach me via email at chasetramel@hey.com.
