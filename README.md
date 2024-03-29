@@ -1,4 +1,4 @@
-- 🦌 Hi, I’m Chase Tramel: 29 years old · any pronouns · near Orlando, Florida
+- 🦌 Hi, I’m Chase Tramel:30 years old · any pronouns · near Orlando, Florida
 - 💛 I’m interested in full-stack web development, UI design, and game development.
 - ✨ I have curated several resources that may be of use to developers with similar interests:
   - **[React Study Plans](https://github.com/ChaseTramel/react-study-plans)** - A study plan for soft skills, interview skills, and React.
