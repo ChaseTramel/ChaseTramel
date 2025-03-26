@@ -1,8 +1,5 @@
-- 🦌 Hi, I’m Chase Tramel:30 years old · any pronouns · near Orlando, Florida
-- 💛 I’m interested in full-stack web development, UI design, and game development.
+- 👋 Hi, I’m Chase Tramel: 31 years old · any pronouns · near Orlando, Florida
 - ✨ I have curated several resources that may be of use to developers with similar interests:
-  - **[React Study Plans](https://github.com/ChaseTramel/react-study-plans)** - A study plan for soft skills, interview skills, and React.
   - **[Cool Obsidian Plugins & More](https://github.com/stars/ChaseTramel/lists/cool-obsidian-plugins-more)** - Plugins on GitHub I use and or find fascinating, plus other related resources.
   - **[Second Life Utilities](https://github.com/stars/ChaseTramel/lists/second-life-utilities)** - Scripts and tools on GitHub that do interesting things in Second Life / OpenSim and or extend the capabilites of LSL.
-- 🛍️ You can find many of my scripted items listed for sale in my [Second Life Marketplace store](https://marketplace.secondlife.com/stores/244066).
 - 📫 Reach me via email at [chasetramel@hey.com](mailto:chasetramel@hey.com).
